@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1280 720"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">zdimaz Dudko — Frontend Software Engineer</title>
+  <desc id="desc">Dark terminal-style hero banner with animated text and cursor.</desc>
+
+  <defs>
+    <linearGradient id="panelGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#21272B"/>
+      <stop offset="100%" stop-color="#11161C"/>
+    </linearGradient>
+    <linearGradient id="borderGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softBlur">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="760" rx="18" ry="18" fill="#0D1117"/>
+  <rect x="60" y="60" width="1160" height="640" rx="16" ry="16" fill="url(#panelGlow)" stroke="#30363D" stroke-width="2"/>
+
+  <g opacity="0.85">
+    <rect x="72" y="72" width="1116" height="32" rx="10" ry="10" fill="#161B22"/>
+    <circle cx="100" cy="88" r="7" fill="#FF5F57"/>
+    <circle cx="130" cy="88" r="7" fill="#FFBD2E"/>
+    <circle cx="160" cy="88" r="7" fill="#28C940"/>
+    <text x="210" y="93" font-family="Inter,system-ui,Segoe UI,Arial" font-size="14" fill="#E6EDF3">zdimaz@github</text>
+  </g>
+
+  <g transform="translate(96,146)" font-family="Ubuntu Mono,Menlo,monospace" font-size="18" fill="#E6EDF3" letter-spacing="0.02em">
+    <text x="0" y="0" fill="#8B949E" opacity="0">
+      Last login: Today
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.2s" fill="freeze"/>
+    </text>
+    <text x="0" y="32" opacity="0">
+      $ whoami
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.5s" fill="freeze"/>
+    </text>
+    <text x="0" y="64" opacity="0">
+      Name: zdimaz Dudko
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.9s" fill="freeze"/>
+    </text>
+    <text x="0" y="96" opacity="0">
+      Role: Frontend Software Engineer
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.2s" fill="freeze"/>
+    </text>
+    <text x="0" y="128" opacity="0">
+      Building fast, scalable and user-focused web applications.
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.5s" fill="freeze"/>
+    </text>
+    <text x="0" y="160" opacity="0">
+      Passionate about clean architecture, performance and modern frontend development.
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.8s" fill="freeze"/>
+    </text>
+
+    <text x="0" y="208" fill="#8B949E" opacity="0">
+      $ focus
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.2s" fill="freeze"/>
+    </text>
+    <text x="0" y="240" opacity="0">
+      Frontend Engineering · UI Development · Modern Web · Performance
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.5s" fill="freeze"/>
+    </text>
+    <text x="0" y="272" opacity="0">
+      Accessibility · Web Architecture · Developer Experience · Automation
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.8s" fill="freeze"/>
+    </text>
+    <text x="0" y="304" opacity="0">
+      Design Systems · Artificial Intelligence · Open Source
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.1s" fill="freeze"/>
+    </text>
+
+    <text x="0" y="352" fill="#8B949E" opacity="0">
+      $ stack
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.6s" fill="freeze"/>
+    </text>
+    <text x="0" y="384" opacity="0">
+      Languages: JavaScript · HTML5 · CSS3 · SCSS · Twig
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="3.9s" fill="freeze"/>
+    </text>
+    <text x="0" y="416" opacity="0">
+      Frontend: Vue.js · Vite · Tailwind CSS · UnoCSS · Webpack
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="4.2s" fill="freeze"/>
+    </text>
+    <text x="0" y="448" opacity="0">
+      CMS: Craft CMS · WordPress
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="4.5s" fill="freeze"/>
+    </text>
+    <text x="0" y="480" opacity="0">
+      Tools: Git · GitHub · Docker · Linux · npm · pnpm · Composer · Figma
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="4.8s" fill="freeze"/>
+    </text>
+
+    <text x="0" y="528" fill="#8B949E" opacity="0">
+      zdimaz@github:~$
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="5.2s" fill="freeze"/>
+    </text>
+    <rect x="190" y="512" width="12" height="22" fill="#E6EDF3" opacity="0">
+      <animate attributeName="opacity" values="0;1;0;1" dur="1.4s" begin="5.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="80" y="88" width="1100" height="568" fill="none" stroke="url(#borderGlow)" stroke-width="1" opacity="0.4" filter="url(#softBlur)"/>
+</svg>

@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="#hero"><img src="assets/hero.svg" alt="ZDIMAZ Hero Banner" title="ZDIMAZ" width="800" style="width: 100%; height: auto; display: block;" /></a>
+
+<br>
+
 # Dmitry Dudko
 
 ### Frontend Software Engineer
@@ -10,7 +14,7 @@ Passionate about clean architecture, performance and modern frontend development
 
 <br>
 
-[Portfolio](https://ddi-portfolio.vercel.app/about-me) •
+[Portfolio](https://ddi-portfolio.vercel.app/) •
 [Telegram](https://t.me/PRO100SHEKEL) •
 [Email](mailto:zdimaz.dudko@gmail.com)
 
@@ -29,6 +33,7 @@ Role: Frontend Software Engineer
 
 Focus:
 - Frontend Engineering
+- Modern Web
 - Performance
 - Modern Web
 - Accessibility
@@ -88,13 +93,13 @@ Additional:
 
 > **Explore selected projects and experience**
 
-🔗 https://ddi-portfolio.vercel.app/about-me
+🔗 https://ddi-portfolio.vercel.app/
 
 ---
 
 ## 📫 Contact
 
-- Portfolio — https://ddi-portfolio.vercel.app/about-me
+- Portfolio — https://ddi-portfolio.vercel.app/
 - Telegram — https://t.me/PRO100SHEKEL
 - Email — zdimaz.dudko@gmail.com
 
