@@ -1,114 +1,91 @@
-<div align="center">
-
-<a href="#hero"><img src="assets/hero.svg" alt="ZDIMAZ Hero Banner" title="ZDIMAZ" width="800" style="width: 100%; height: auto; display: block;" /></a>
-
-<br>
-
-# Dmitry Dudko
-
+# Dmitrii Dudko
 ### Frontend Software Engineer
 
-Building fast, scalable and user-focused web applications.
+Building fast, scalable, and user-focused web applications. Passionate about clean architecture, performance, accessibility, and modern frontend ecosystems.
 
-Passionate about clean architecture, performance and modern frontend development.
-
-<br>
-
-[Portfolio](https://ddi-portfolio.vercel.app/) •
-[Telegram](https://t.me/PRO100SHEKEL) •
-[Email](mailto:zdimaz.dudko@gmail.com)
-
-</div>
+🌐 [Portfolio](https://ddi-portfolio.vercel.app/) | ✈️ [Telegram](https://t.me/PRO100SHEKEL) | ✉️ [Email](mailto:zdimaz.dudko@gmail.com)
 
 ---
 
 ## 👨‍💻 About
 
-```bash
-$ whoami
-
-Name: Dmitry Dudko
-
-Role: Frontend Software Engineer
-
-Focus:
-- Frontend Engineering
-- Modern Web
-- Performance
-- Modern Web
-- Accessibility
-- UI Architecture
-- Developer Experience
-- AI-assisted Development
-```
+- **Role**: Frontend Software Engineer
+- **Focus**: 
+  - Frontend Engineering & Modern Web Architecture
+  - Performance Optimization & Accessibility
+  - UI/UX Implementation & Developer Experience
+  - CMS Integration (Craft CMS, WordPress)
+  - AI-assisted Development & Local LLM Integration
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages & Core**
+- HTML5, CSS3, JavaScript (ES6+), TypeScript (learning)
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,html,css,sass" />
-</p>
+**Frameworks & Libraries**
+- Vue.js 3 (Composition API, `<script setup>`)
+- Vue Router, Vue I18n
+- jQuery
 
-### Frontend
+**Build Tools & Bundlers**
+- Vite, Gulp, Webpack
+- pnpm, npm
 
-<p>
-<img src="https://skillicons.dev/icons?i=vue,vite,tailwind" />
-</p>
+**Styling**
+- Tailwind CSS, UnoCSS, SCSS/Sass, Bootstrap, CSS3
 
-**Also working with**
+**Templating & Markup**
+- Twig, Pug, HTML5
 
-- UnoCSS
-- Twig
-- Craft CMS
-- WordPress
+**CMS**
+- Craft CMS, WordPress
 
-### Tools
+**Tools & Workflow**
+- Git, GitHub, GitLab
+- Figma (design handoff)
+- ESLint, Prettier
+- Linux (Arch Linux)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,npm,figma" />
-</p>
-
-Additional:
-
-- pnpm
-- Composer
-
----
-
-## 🚀 Current Focus
-
-- Building maintainable frontend architecture
-- Performance optimization
-- Accessibility
-- Reusable UI components
-- Modern tooling
-- Clean code
+**AI & Developer Tools**
+- Local LLM Integration (Ollama, Llama.cpp, Qwen, Llama 3)
+- RAG, AI Agents, Aider
+- Cursor, VS Code, Neovim
 
 ---
 
-## 🌐 Portfolio
+## 🚀 Featured Projects
 
-> **Explore selected projects and experience**
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Berlin Ice Bar](https://berlinicebar.com/)** | Responsive landing page with multi-language booking integration. | CraftCMS, Vite, Vue, Tailwind, Twig |
+| **[Amsterdam Ice Bar](https://xtracold.com/)** | Multi-language event booking site. | CraftCMS, Vite, Vue, Tailwind, Twig |
+| **[Lovers Canal Cruise](https://lovers.nl/)** | Tourist booking platform redesign. | CraftCMS, Vite, Vue, Tailwind, Twig |
+| **[SpaceVR](https://spacevr.com.ua/en/)** | VR experiences booking platform with interactive UI. | Vite, Vue, JavaScript, jQuery |
+| **[Robocrops](https://robocrops.tech/)** | AgriTech startup presentation site with modern animations. | CraftCMS, Vite, Vue, Tailwind |
+| **[Magnatstroy](https://www.rabotniki.ua/magnatstroy)** | Construction company profile. | Vite, Bootstrap, SCSS, jQuery |
 
-🔗 https://ddi-portfolio.vercel.app/
+> 💡 *Explore 20+ more projects in my [live portfolio](https://ddi-portfolio.vercel.app/projects).*
 
 ---
 
-## 📫 Contact
+## 🎯 Current Focus
 
-- Portfolio — https://ddi-portfolio.vercel.app/
-- Telegram — https://t.me/PRO100SHEKEL
-- Email — zdimaz.dudko@gmail.com
+- Building maintainable, type-safe frontend architecture with Vue 3 + TypeScript.
+- Deepening expertise in local AI integration (Ollama, Llama.cpp) for developer workflows.
+- Improving English proficiency for seamless collaboration in international teams.
+- Contributing to open-source and refining reusable UI component libraries.
 
 ---
 
-<div align="center">
+## 📫 Let's Connect
 
-### Thanks for visiting 👋
+I am actively looking for Frontend Developer opportunities in the European market. If you are building something interesting, let's talk.
 
-_"See you next commit."_
+- **Portfolio**: [ddi-portfolio.vercel.app](https://ddi-portfolio.vercel.app/)
+- **Telegram**: [@PRO100SHEKEL](https://t.me/PRO100SHEKEL)
+- **Email**: [zdimaz.dudko@gmail.com](mailto:zdimaz.dudko@gmail.com)
 
-</div>
+---
+*_"See you next commit."_ 👋
